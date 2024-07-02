@@ -13,7 +13,7 @@ A depender da opção que você escolher:
 2. Receba o resultado em um número decimal!
 
 ## Conceitos aplicados 🧠⚡
-* Uso de Controles de Fluxo
+* Controles de Fluxo
 * Uso do Scanner
 * Controle de Exceptions
 * Aplicação de Laços de Repetição
