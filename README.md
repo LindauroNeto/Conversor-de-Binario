@@ -20,3 +20,12 @@ A depender da opção que você escolher:
 * Emprego de Interfaces
 * Aplicação de Arrays
 * Utilização de Generics
+
+## Exibição do Programa 👨‍💻
+### 1. Conversão de um número decimal para binário
+Ex.: 12355(10) -> 11000001000011(2)  <br/><br/>
+![decimal-binario (1)](https://github.com/LindauroNeto/Conversor-de-Binario-para-Decimal-Java/assets/140420389/e6e04557-0753-40e3-a8ef-5edfeac6bb43)
+
+### 2. Conversão de um número binário para decimal
+Ex.: 10110001101(2) -> 1421(10)  <br/><br/>
+![binario-decimal](https://github.com/LindauroNeto/Conversor-de-Binario-para-Decimal-Java/assets/140420389/8b865a46-6846-4af6-a138-1d48092ec63c)
